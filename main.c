@@ -6,7 +6,7 @@
 
 int main(void) {
     const char *input_file = "C:\\Users\\EO2-CHUKWUKA\\OneDrive - UWE Bristol\\c program\\power_quality_log(2).csv";
-    const char *output_file = "C:\\Users\\EO2-CHUKWUKA\\OneDrive - UWE Bristol\\results.txt";
+    const char *output_file = "C:\\Users\\EO2-CHUKWUKA\\OneDrive - UWE Bristol\\c program\\results.txt";
 
     /* ---- 1. Load CSV into heap-allocated array ---- */
     int n = 0;
